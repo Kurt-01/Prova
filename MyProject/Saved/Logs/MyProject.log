@@ -2480,3 +2480,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-17.38.44:948][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow3)
 [2021.04.12-17.39.56:125][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
 [2021.04.12-17.40.14:958][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow6)
+[2021.04.12-17.43.21:281][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.04.12-17.43.21:336][545]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_Auto7220183104D13C0B347958295713C37C1.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2021.04.12-17.43.21:337][545]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.102
+[2021.04.12-17.43.21:337][545]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.102
