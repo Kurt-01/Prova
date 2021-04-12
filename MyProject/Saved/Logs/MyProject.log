@@ -936,3 +936,145 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-15.51.08:778][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.04.12-15.51.47:215][317]LogAssetRegistry: Asset discovery search completed in 164.7659 seconds
 [2021.04.12-15.51.47:228][317]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.04.12-15.55.25:669][376]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.12-15.55.25:699][376]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.12-15.55.25:746][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.04.12-15.55.25:753][376]Cmd: MAP LOAD FILE="../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.12-15.55.25:753][376]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-15.55.25:753][376]LoadErrors: New page: Carregando mapa: FirstPersonExampleMap.umap
+[2021.04.12-15.55.25:884][376]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-15.55.25:887][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-15.55.25:887][376]MapCheck: New page: Verificação de Mapa
+[2021.04.12-15.55.25:887][376]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-15.55.25:924][376]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002581BA31000), frame # 6376
+[2021.04.12-15.55.25:924][376]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002581BA03240), frame # 6376
+[2021.04.12-15.55.25:926][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.12-15.55.26:089][376]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.12-15.55.26:089][376]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002581BA33C00), frame # 6376
+[2021.04.12-15.55.26:089][376]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002581BB61580), frame # 6376
+[2021.04.12-15.55.26:170][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.12-15.55.26:183][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.04.12-15.55.26:206][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.12-15.55.26:207][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,228ms to complete.
+[2021.04.12-15.55.26:207][376]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.454
+[2021.04.12-15.55.52:099][560]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-15.55.52:113][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.12-15.55.52:118][560]Cmd: MAP LOAD FILE="../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.12-15.55.52:118][560]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-15.55.52:119][560]LoadErrors: New page: Carregando mapa: Minimal_Default.umap
+[2021.04.12-15.55.52:121][560]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-15.55.52:121][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-15.55.52:122][560]MapCheck: New page: Verificação de Mapa
+[2021.04.12-15.55.52:122][560]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-15.55.52:143][560]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002581BB61580), frame # 7560
+[2021.04.12-15.55.52:143][560]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002581BA33C00), frame # 7560
+[2021.04.12-15.55.52:145][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.12-15.55.52:196][560]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.12-15.55.52:196][560]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.12-15.55.52:196][560]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002581BA33E00), frame # 7560
+[2021.04.12-15.55.52:205][560]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002581BD882C0), frame # 7560
+[2021.04.12-15.55.52:235][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.12-15.55.52:245][560]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.12-15.55.52:246][560]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,204ms to complete.
+[2021.04.12-15.55.52:246][560]LogFileHelpers: Loading map 'Minimal_Default' took 0.128
+[2021.04.12-15.56.41:368][347]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ea5e0773-3801-4f34-a010-d692862f9afe}.
+[2021.04.12-15.56.41:368][347]LogTemp: Resetting audio stream to device id 
+[2021.04.12-15.56.41:755][347]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-15.56.41:755][347]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-15.57.21:059][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2021.04.12-15.57.24:310][748]Cmd: DELETE
+[2021.04.12-15.57.24:310][748]Cmd: ACTOR DELETE
+[2021.04.12-15.57.24:653][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-15.57.24:735][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.04.12-15.57.24:758][748]LogEditorActor: Deleted 1 Actors (0.188 secs)
+[2021.04.12-15.57.25:344][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2021.04.12-15.57.26:301][820]Cmd: DELETE
+[2021.04.12-15.57.26:301][820]Cmd: ACTOR DELETE
+[2021.04.12-15.57.26:305][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-15.57.26:317][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.12-15.57.26:320][820]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.04.12-15.57.27:460][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2021.04.12-15.57.28:301][918]Cmd: DELETE
+[2021.04.12-15.57.28:301][918]Cmd: ACTOR DELETE
+[2021.04.12-15.57.28:304][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-15.57.28:316][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.12-15.57.28:319][918]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.04.12-15.57.29:357][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2021.04.12-15.57.29:706][988]Cmd: DELETE
+[2021.04.12-15.57.29:706][988]Cmd: ACTOR DELETE
+[2021.04.12-15.57.29:708][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-15.57.29:720][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.04.12-15.57.29:723][988]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.04.12-15.57.36:439][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.12-15.57.44:615][771]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.04.12-15.57.47:786][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.12-15.57.49:022][ 78]Cmd: EDIT COPY
+[2021.04.12-15.57.49:298][ 90]Cmd: EDIT PASTE
+[2021.04.12-15.58.00:048][635]Cmd: EDIT COPY
+[2021.04.12-15.58.00:350][651]Cmd: EDIT PASTE
+[2021.04.12-15.58.33:942][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.12-15.59.47:622][485]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-15.59.48:746][541]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-16.01.03:661][434]LogSlate: Took 0.015823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.12-16.01.08:170][584]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.01.11:273][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.04.12-16.01.51:101][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.04.12-16.01.51:962][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.04.12-16.02.05:451][276]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.02.10:542][463]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2021.04.12-16.02.11:888][529]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2021.04.12-16.02.46:028][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.02.49:398][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.02.54:689][389]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.02.56:587][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.03.01:403][671]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.03.05:351][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.03.07:662][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.03.15:696][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.03.17:968][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.03.26:862][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.03.34:625][991]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.03.36:240][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.03.43:736][338]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.03.45:152][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.03.52:046][698]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.03.53:346][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.04.11:147][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.04.24:135][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.04.12-16.04.34:121][688]Cmd: DELETE
+[2021.04.12-16.04.34:121][688]Cmd: ACTOR DELETE
+[2021.04.12-16.04.34:123][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-16.04.34:142][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.12-16.04.34:146][688]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.04.12-16.04.35:517][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.04.36:792][821]Cmd: EDIT COPY
+[2021.04.12-16.04.37:082][836]Cmd: EDIT PASTE
+[2021.04.12-16.04.42:655][112]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.05.00:270][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.05.05:209][153]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.05.08:790][299]LogActorFactory: Actor Factory created Pillar_50x500
+[2021.04.12-16.05.10:827][398]LogActorFactory: Actor Factory created Pillar_50x500
+[2021.04.12-16.05.19:003][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.05.22:972][931]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.05.24:531][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.04.12-16.05.39:576][478]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.05.41:314][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.04.12-16.05.55:639][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2021.04.12-16.06.03:932][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.06.22:426][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.04.12-16.06.23:165][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2021.04.12-16.06.33:640][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.06.35:057][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.06.44:757][603]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.06.48:647][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.04.12-16.06.53:234][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-16.06.54:767][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x500)
+[2021.04.12-16.07.02:383][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.04.12-16.07.07:925][655]Cmd: EDIT COPY
+[2021.04.12-16.07.08:203][669]Cmd: EDIT PASTE
+[2021.04.12-16.07.22:131][335]Cmd: TRANSACTION UNDO
+[2021.04.12-16.07.22:131][335]LogEditorTransaction: Undo Move Actors
+[2021.04.12-16.07.56:692][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.12-16.07.56:835][992]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_Auto125326AB645118C0A7ACA58A01FB904A2.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2021.04.12-16.07.56:837][992]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.156
+[2021.04.12-16.07.56:837][992]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.156
