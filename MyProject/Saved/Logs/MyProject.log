@@ -2562,3 +2562,332 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-17.51.45:725][838]Cmd: EDIT COPY
 [2021.04.12-17.51.46:498][863]Cmd: EDIT PASTE
 [2021.04.12-17.51.49:819][965]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-17.53.59:065][137]Cmd: EDIT COPY
+[2021.04.12-17.53.59:392][146]Cmd: EDIT PASTE
+[2021.04.12-17.54.09:611][373]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-17.54.39:715][691]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.04.12-17.54.39:767][691]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_Auto8168E3C374E18AEDCE4C581B2FE349716.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2021.04.12-17.54.39:769][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.116
+[2021.04.12-17.54.39:769][691]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.116
+[2021.04.12-17.54.39:769][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Luz] ([1] browsable assets)...
+[2021.04.12-17.54.39:793][691]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Luz.Luz]
+[2021.04.12-17.54.39:793][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Luz]
+[2021.04.12-17.54.39:808][691]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Luz_Auto8FC6D5C214C893FA50E2BAE97B6B412F3.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Autosaves/Game/FirstPerson/Luz_Auto8.uasset'
+[2021.04.12-17.54.39:809][691]LogFileHelpers: Auto-saving content packages took 0.041
+[2021.04.12-17.55.08:814][331]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-17.55.08:824][331]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.12-17.55.08:825][331]LogPlayLevel: [PlayLevel] Compiling BaseElv before play...
+[2021.04.12-17.55.08:951][331]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2021.04.12-17.55.08:955][331]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2021.04.12-17.55.08:955][331]PIE: New page: Sessão de PIE : Minimal_Default (12 de abr de 2021 11:55:08)
+[2021.04.12-17.55.08:957][331]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-17.55.08:967][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009808s)
+[2021.04.12-17.55.08:969][331]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.12-17.55.08:969][331]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000258A0355E00), frame # 256331
+[2021.04.12-17.55.08:969][331]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000258B11A5580), frame # 256331
+[2021.04.12-17.55.08:970][331]LogPlayLevel: PIE: World Init took: (0.002713s)
+[2021.04.12-17.55.08:970][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012824s)
+[2021.04.12-17.55.09:020][331]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2021.04.12-17.55.09:023][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-17.55.09:024][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-17.55.09:024][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-17.55.09:024][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-17.55.09:024][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-17.55.09:024][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-17.55.09:024][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-17.55.09:024][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-17.55.09:025][331]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-17.55.09:025][331]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-17.55.09:028][331]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-17.55.09:028][331]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-17.55.09:052][331]LogAudioMixer: Display: Using Audio Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2021.04.12-17.55.09:053][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-17.55.09:053][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-17.55.09:053][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-17.55.09:054][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-17.55.09:068][331]LogInit: FAudioDevice initialized.
+[2021.04.12-17.55.09:077][331]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.12-17.55.09:083][331]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.04.12-14.55.09
+[2021.04.12-17.55.09:083][331]LogWorld: Bringing up level for play took: 0.005002
+[2021.04.12-17.55.09:083][331]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.04.12-17.55.09:089][331]PIE: Servidor conectado
+[2021.04.12-17.55.09:091][331]PIE: Play in editor total start time 0,267 seconds.
+[2021.04.12-17.55.11:998][406]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-511.37 Y=12.36 Z=0.00 Location: X=-367.09 Y=42.95 Z=256.99 Normal: X=0.64 Y=0.00 Z=0.77 PenetrationDepth:3.699 Actor:BaseElv_2 Component:Base Do elev BoneName:None (0 other events since notify)
+[2021.04.12-17.55.15:272][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-17.55.15:272][500]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-17.55.15:272][500]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-17.55.15:273][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-17.55.15:288][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-17.55.15:297][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-17.55.15:344][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-17.55.15:367][500]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000258B11A5580), frame # 256500
+[2021.04.12-17.55.15:367][500]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000258A0355E00), frame # 256500
+[2021.04.12-17.55.15:373][500]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2021.04.12-17.55.15:417][501]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.04.12-17.55.16:290][521]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-17.55.16:299][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-17.55.16:299][521]PIE: New page: Sessão de PIE : Minimal_Default (12 de abr de 2021 11:55:16)
+[2021.04.12-17.55.16:300][521]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-17.55.16:310][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010439s)
+[2021.04.12-17.55.16:312][521]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.12-17.55.16:312][521]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000258B1EF5000), frame # 256521
+[2021.04.12-17.55.16:312][521]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000258904D5E40), frame # 256521
+[2021.04.12-17.55.16:312][521]LogPlayLevel: PIE: World Init took: (0.001788s)
+[2021.04.12-17.55.16:312][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012478s)
+[2021.04.12-17.55.16:364][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-17.55.16:366][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-17.55.16:366][521]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-17.55.16:366][521]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-17.55.16:369][521]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-17.55.16:369][521]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-17.55.16:386][521]LogAudioMixer: Display: Using Audio Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2021.04.12-17.55.16:386][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-17.55.16:386][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-17.55.16:386][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-17.55.16:387][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-17.55.16:400][521]LogInit: FAudioDevice initialized.
+[2021.04.12-17.55.16:414][521]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.12-17.55.16:419][521]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.04.12-14.55.16
+[2021.04.12-17.55.16:419][521]LogWorld: Bringing up level for play took: 0.004491
+[2021.04.12-17.55.16:420][521]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.04.12-17.55.16:427][521]PIE: Servidor conectado
+[2021.04.12-17.55.16:428][521]PIE: Play in editor total start time 0,13 seconds.
+[2021.04.12-17.55.24:282][737]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.04.12-17.55.31:532][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-17.55.31:532][940]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-17.55.31:532][940]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-17.55.31:534][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-17.55.31:548][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-17.55.31:559][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-17.55.31:606][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-17.55.31:625][940]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000258904D5E40), frame # 256940
+[2021.04.12-17.55.31:625][940]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000258B1EF5000), frame # 256940
+[2021.04.12-17.55.31:631][940]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.04.12-17.55.31:671][941]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.04.12-17.57.25:143][362]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{df384873-592f-4e99-a9cf-727571b50d30}.
+[2021.04.12-17.57.25:143][362]LogTemp: Resetting audio stream to device id 
+[2021.04.12-17.57.25:429][362]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-17.57.25:429][362]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-18.01.27:600][428]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-18.01.27:613][428]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.12-18.01.27:614][428]LogPlayLevel: [PlayLevel] Compiling BaseElv before play...
+[2021.04.12-18.01.27:743][428]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2021.04.12-18.01.27:771][428]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2021.04.12-18.01.27:771][428]PIE: New page: Sessão de PIE : Minimal_Default (12 de abr de 2021 12:01:27)
+[2021.04.12-18.01.27:780][428]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-18.01.27:789][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009787s)
+[2021.04.12-18.01.27:791][428]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.12-18.01.27:791][428]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000258A0357800), frame # 259428
+[2021.04.12-18.01.27:791][428]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000258C9FCDD00), frame # 259428
+[2021.04.12-18.01.27:792][428]LogPlayLevel: PIE: World Init took: (0.002389s)
+[2021.04.12-18.01.27:792][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012490s)
+[2021.04.12-18.01.27:843][428]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-18.01.27:845][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-18.01.27:845][428]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-18.01.27:845][428]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-18.01.27:849][428]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-18.01.27:849][428]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-18.01.27:863][428]LogAudioMixer: Display: Using Audio Device Alto-falantes (High Definition Audio Device)
+[2021.04.12-18.01.27:863][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-18.01.27:863][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-18.01.27:863][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-18.01.27:865][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-18.01.27:881][428]LogInit: FAudioDevice initialized.
+[2021.04.12-18.01.27:894][428]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.12-18.01.27:900][428]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.04.12-15.01.27
+[2021.04.12-18.01.27:900][428]LogWorld: Bringing up level for play took: 0.004875
+[2021.04.12-18.01.27:900][428]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.04.12-18.01.27:932][428]PIE: Servidor conectado
+[2021.04.12-18.01.27:933][428]PIE: Play in editor total start time 0,323 seconds.
+[2021.04.12-18.01.39:913][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-18.01.39:913][752]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-18.01.39:913][752]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-18.01.39:915][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.01.39:930][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-18.01.39:940][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.01.39:987][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-18.01.40:013][752]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000258C9FCDD00), frame # 259752
+[2021.04.12-18.01.40:013][752]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000258A0357800), frame # 259752
+[2021.04.12-18.01.40:018][752]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.04.12-18.01.40:074][753]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.04.12-18.01.49:540][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.12-18.02.26:889][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.12-18.02.28:258][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2021.04.12-18.02.29:265][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.12-18.02.34:450][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.12-18.02.36:505][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.12-18.02.37:176][ 81]Cmd: TRANSACTION UNDO
+[2021.04.12-18.02.37:177][ 81]LogEditorTransaction: Undo Clicando nos Atores
+[2021.04.12-18.02.38:433][107]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2021.04.12-18.02.39:101][120]Cmd: TRANSACTION UNDO
+[2021.04.12-18.02.39:101][120]LogEditorTransaction: Undo Clicando nos Atores
+[2021.04.12-18.02.39:464][127]Cmd: TRANSACTION UNDO
+[2021.04.12-18.02.39:464][127]LogEditorTransaction: Undo Clicando nos Atores
+[2021.04.12-18.02.40:122][141]Cmd: TRANSACTION UNDO
+[2021.04.12-18.02.40:122][141]LogEditorTransaction: Undo Criar Atores
+[2021.04.12-18.02.41:993][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x312)
+[2021.04.12-18.02.43:379][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.12-18.02.49:635][354]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2021.04.12-18.02.57:652][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2021.04.12-18.03.05:247][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.12-18.03.21:160][ 84]LogActorFactory: Actor Factory created SM_Bush
+[2021.04.12-18.03.24:952][173]LogActorFactory: Actor Factory created SM_Bush
+[2021.04.12-18.03.27:974][235]LogActorFactory: Actor Factory created SM_Couch
+[2021.04.12-18.03.29:174][261]LogActorFactory: Actor Factory created SM_Couch
+[2021.04.12-18.03.42:482][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2021.04.12-18.04.06:015][126]LogActorFactory: Actor Factory created SM_TableRound
+[2021.04.12-18.04.08:167][175]LogActorFactory: Actor Factory created SM_TableRound
+[2021.04.12-18.04.08:838][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-18.05.14:158][738]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.04.12-18.05.14:213][738]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_Auto9DFAFAFA34FFD01D70F59489A08C96D39.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2021.04.12-18.05.14:217][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.114
+[2021.04.12-18.05.14:217][738]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2021.04.12-18.05.14:218][738]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/BaseElv] ([1] browsable assets)...
+[2021.04.12-18.05.14:291][738]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/BaseElv.BaseElv]
+[2021.04.12-18.05.14:292][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/BaseElv]
+[2021.04.12-18.05.14:401][738]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/BaseElv_Auto90676828F493F527EF8F0D686C793DF34.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Autosaves/Game/FirstPerson/BaseElv_Auto9.uasset'
+[2021.04.12-18.05.14:402][738]LogFileHelpers: Auto-saving content packages took 0.185
+[2021.04.12-18.05.51:184][527]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-18.05.51:194][527]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.12-18.05.51:195][527]LogPlayLevel: [PlayLevel] Compiling BaseElv before play...
+[2021.04.12-18.05.51:355][527]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.04.12-18.05.51:358][527]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2021.04.12-18.05.51:358][527]PIE: New page: Sessão de PIE : Minimal_Default (12 de abr de 2021 12:05:51)
+[2021.04.12-18.05.51:358][527]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-18.05.51:369][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010531s)
+[2021.04.12-18.05.51:371][527]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.12-18.05.51:371][527]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000258D6359800), frame # 264527
+[2021.04.12-18.05.51:371][527]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000258B4654A40), frame # 264527
+[2021.04.12-18.05.51:372][527]LogPlayLevel: PIE: World Init took: (0.002900s)
+[2021.04.12-18.05.51:372][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013680s)
+[2021.04.12-18.05.51:424][527]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.04.12-18.05.51:426][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-18.05.51:427][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-18.05.51:427][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-18.05.51:427][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-18.05.51:427][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-18.05.51:427][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-18.05.51:427][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-18.05.51:427][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-18.05.51:427][527]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-18.05.51:427][527]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-18.05.51:431][527]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-18.05.51:431][527]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-18.05.51:448][527]LogAudioMixer: Display: Using Audio Device Alto-falantes (High Definition Audio Device)
+[2021.04.12-18.05.51:449][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-18.05.51:449][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-18.05.51:449][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-18.05.51:451][527]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-18.05.51:504][527]LogInit: FAudioDevice initialized.
+[2021.04.12-18.05.51:512][527]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.12-18.05.51:517][527]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.04.12-15.05.51
+[2021.04.12-18.05.51:518][527]LogWorld: Bringing up level for play took: 0.005108
+[2021.04.12-18.05.51:518][527]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.04.12-18.05.51:525][527]PIE: Servidor conectado
+[2021.04.12-18.05.51:526][527]PIE: Play in editor total start time 0,334 seconds.
+[2021.04.12-18.06.03:200][835]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.04.12-18.06.06:203][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-18.06.06:203][919]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-18.06.06:204][919]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-18.06.06:205][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.06.06:222][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-18.06.06:230][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.06.06:278][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-18.06.06:301][919]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000258B4654A40), frame # 264919
+[2021.04.12-18.06.06:301][919]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000258D6359800), frame # 264919
+[2021.04.12-18.06.06:307][919]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.04.12-18.06.06:347][920]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.04.12-18.06.23:336][352]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-18.06.23:347][352]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.12-18.06.23:348][352]LogPlayLevel: [PlayLevel] Compiling BaseElv before play...
+[2021.04.12-18.06.23:481][352]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2021.04.12-18.06.23:484][352]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2021.04.12-18.06.23:485][352]PIE: New page: Sessão de PIE : Minimal_Default (12 de abr de 2021 12:06:23)
+[2021.04.12-18.06.23:503][352]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-18.06.23:514][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010200s)
+[2021.04.12-18.06.23:515][352]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.12-18.06.23:515][352]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000258C760E000), frame # 265352
+[2021.04.12-18.06.23:516][352]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000258B1E80F40), frame # 265352
+[2021.04.12-18.06.23:516][352]LogPlayLevel: PIE: World Init took: (0.002292s)
+[2021.04.12-18.06.23:516][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012770s)
+[2021.04.12-18.06.23:564][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2021.04.12-18.06.23:566][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-18.06.23:567][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-18.06.23:567][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-18.06.23:567][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-18.06.23:567][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-18.06.23:567][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-18.06.23:567][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-18.06.23:567][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-18.06.23:567][352]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-18.06.23:567][352]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-18.06.23:570][352]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-18.06.23:570][352]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-18.06.23:583][352]LogAudioMixer: Display: Using Audio Device Alto-falantes (High Definition Audio Device)
+[2021.04.12-18.06.23:584][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-18.06.23:584][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-18.06.23:584][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-18.06.23:585][352]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-18.06.23:600][352]LogInit: FAudioDevice initialized.
+[2021.04.12-18.06.23:610][352]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.12-18.06.23:617][352]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.04.12-15.06.23
+[2021.04.12-18.06.23:617][352]LogWorld: Bringing up level for play took: 0.006768
+[2021.04.12-18.06.23:617][352]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.04.12-18.06.23:624][352]PIE: Servidor conectado
+[2021.04.12-18.06.23:625][352]PIE: Play in editor total start time 0,28 seconds.
+[2021.04.12-18.06.56:832][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-18.06.56:832][226]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.12-18.06.56:834][226]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-18.06.56:835][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.06.56:852][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-18.06.56:862][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.06.56:912][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-18.06.56:934][226]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000258B1E80F40), frame # 266226
+[2021.04.12-18.06.56:935][226]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000258C760E000), frame # 266226
+[2021.04.12-18.06.56:941][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.04.12-18.06.57:000][227]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.04.12-18.10.11:790][839]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ea5e0773-3801-4f34-a010-d692862f9afe}.
+[2021.04.12-18.10.11:793][839]LogTemp: Resetting audio stream to device id 
+[2021.04.12-18.10.11:851][839]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-18.10.11:851][839]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-18.12.26:085][160]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:17295).
+[2021.04.12-18.15.36:790][180]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Window_400x313)
+[2021.04.12-18.15.38:115][251]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.12-18.15.56:719][699]LogActorFactory: Actor Factory created Cube
+[2021.04.12-18.15.58:806][743]LogActorFactory: Actor Factory created Cube
+[2021.04.12-18.16.40:159][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.04.12-18.17.04:405][329]Cmd: EDIT COPY
+[2021.04.12-18.17.04:745][337]Cmd: EDIT PASTE
+[2021.04.12-18.17.24:321][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.04.12-18.17.36:840][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.04.12-18.17.50:158][406]LogMaterial: Display: Missing cached shader map for material M_AssetPlatform_2, compiling. 
+[2021.04.12-18.17.50:472][406]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.04.12-18.17.50:472][406]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.04.12-18.17.50:472][406]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.12-18.17.53:219][486]Cmd: TRANSACTION UNDO
+[2021.04.12-18.17.53:219][486]LogEditorTransaction: Undo Move Actors
+[2021.04.12-18.17.54:144][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.04.12-18.17.55:177][544]Cmd: EDIT COPY
+[2021.04.12-18.17.55:486][551]Cmd: EDIT PASTE
+[2021.04.12-18.18.12:108][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.04.12-18.18.17:541][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow9)
+[2021.04.12-18.18.36:915][498]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2021.04.12-18.18.36:990][498]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_DefaultD7AC2783472A33A7FA3F1FA672ED1C46.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.12-18.18.40:506][498]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_BuiltData58FE939C4116033F9BA6FBA7F4BFF6DA.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.12-18.18.40:590][498]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-18.18.40:590][498]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-18.18.40:590][498]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
