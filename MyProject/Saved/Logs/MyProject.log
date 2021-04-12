@@ -2957,3 +2957,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-18.20.49:813][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
 [2021.04.12-18.20.55:309][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow12)
 [2021.04.12-18.20.56:292][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.04.12-18.21.54:706][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.04.12-18.23.39:526][504]LogUObjectHash: Compacting FUObjectHashTables data took  23.37ms
+[2021.04.12-18.23.39:737][504]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_DefaultC7721AB146FFF9F157CD4695DDC56B40.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.12-18.23.39:857][504]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_BuiltData4C81B49040AF04C62DC9EFA5DB6A191E.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.12-18.23.39:897][504]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-18.23.39:897][504]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-18.23.39:897][504]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.12-18.24.38:185][787]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-18.24.38:239][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.12-18.24.40:232][787]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2021.04.12-18.25.05:153][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.12-18.25.05:204][370]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_DefaultF8A5152A48419009C8C4FF854DEE15C3.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.12-18.25.05:335][370]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_BuiltDataA913BBB4489589CAAEF5DF9C6BE75996.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.12-18.25.05:359][370]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-18.25.05:360][370]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-18.25.05:360][370]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.12-18.25.59:207][223]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2021.04.12-18.25.59:261][223]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_DefaultAABF93584F547DBE7495DDBF854F634A.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.12-18.25.59:385][223]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_BuiltDataCE1E4E1C4898FA33EB15CCBA9FEEA394.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.12-18.25.59:412][223]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-18.25.59:413][223]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-18.25.59:413][223]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.12-18.26.02:176][284]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.04.12-18.26.02:898][284]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.04.12-18.26.15:737][284]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2021.04.12-18.26.15:805][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/BaseElv" FILE="../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/FirstPerson/BaseElv.uasset" SILENT=true
+[2021.04.12-18.26.15:886][284]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/BaseElvACE6F81341155CBA5B5A08AB8365E559.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/FirstPerson/BaseElv.uasset'
+[2021.04.12-18.26.15:888][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Luz" FILE="../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/FirstPerson/Luz.uasset" SILENT=true
+[2021.04.12-18.26.15:899][284]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/LuzCBB1CA684AF65BE92C9175A4BBBB308C.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/FirstPerson/Luz.uasset'
+[2021.04.12-18.26.15:955][284]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/M_AssetPlatform_2FC5729AC463AAED95F3206A243779F09.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Materials/M_AssetPlatform_2.uasset'
+[2021.04.12-18.26.15:957][284]Cmd: MAP LOAD FILE="../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.12-18.26.15:957][284]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-18.26.15:957][284]LoadErrors: New page: Carregando mapa: StarterMap.umap
+[2021.04.12-18.26.15:961][284]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-18.26.15:961][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.26.15:961][284]MapCheck: New page: Verificação de Mapa
+[2021.04.12-18.26.15:961][284]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-18.26.16:059][284]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002581BD882C0), frame # 298284
+[2021.04.12-18.26.16:059][284]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002581BA33E00), frame # 298284
+[2021.04.12-18.26.16:064][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.04.12-18.26.16:220][284]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.12-18.26.16:221][284]LogAIModule: Creating AISystem for world StarterMap
+[2021.04.12-18.26.16:221][284]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002587892FE00), frame # 298284
+[2021.04.12-18.26.16:221][284]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000258CB6B4B80), frame # 298284
+[2021.04.12-18.26.16:281][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.04.12-18.26.16:299][284]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.12-18.26.16:299][284]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,323ms to complete.
+[2021.04.12-18.26.16:299][284]LogFileHelpers: Loading map 'StarterMap' took 0.343
+[2021.04.12-18.26.16:350][284]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-18.26.16:350][284]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/BaseElv.BaseElv
+[2021.04.12-18.26.16:351][284]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Luz.Luz
+[2021.04.12-18.26.16:351][284]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_AssetPlatform_2.M_AssetPlatform_2
+[2021.04.12-18.26.19:836][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-18.26.19:871][332]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.04.12-18.26.19:907][332]Cmd: MAP LOAD FILE="../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.12-18.26.19:909][332]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-18.26.19:909][332]LoadErrors: New page: Carregando mapa: Minimal_Default.umap
+[2021.04.12-18.26.19:918][332]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-18.26.19:918][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.26.19:919][332]MapCheck: New page: Verificação de Mapa
+[2021.04.12-18.26.19:919][332]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-18.26.19:970][332]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000258CB6B4B80), frame # 298332
+[2021.04.12-18.26.19:970][332]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002587892FE00), frame # 298332
+[2021.04.12-18.26.19:975][332]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.04.12-18.26.20:048][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.12-18.26.20:048][332]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.12-18.26.20:048][332]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002587892FC00), frame # 298332
+[2021.04.12-18.26.20:048][332]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000258B5E5B100), frame # 298332
+[2021.04.12-18.26.20:088][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.04.12-18.26.20:109][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.12-18.26.20:111][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,177ms to complete.
+[2021.04.12-18.26.20:111][332]LogFileHelpers: Loading map 'Minimal_Default' took 0.204
+[2021.04.12-18.26.45:521][892]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2021.04.12-18.26.45:572][892]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2021.04.12-18.26.58:930][173]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2021.04.12-18.26.58:979][173]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2021.04.12-18.27.00:207][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.04.12-18.27.00:255][198]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_DefaultADDBB91E4DA3FA130BE47F8521147EE0.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.12-18.27.00:393][198]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Saved/Minimal_Default_BuiltData2EC0E11C44794120F08B0BABC6010FD4.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Prova/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.12-18.27.00:418][198]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-18.27.00:418][198]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.12-18.27.00:418][198]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
